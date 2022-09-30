@@ -2100,6 +2100,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Slack Bot_JSObject1.filterByValue",
               "name": "JSObject1.onOpen",
               "collectionId": "Slack Bot_JSObject1",
               "confirmBeforeExecute": false,
@@ -2110,6 +2111,7 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Slack Bot_JSObject1.filterByValue",
               "name": "JSObject1.openSetup",
               "collectionId": "Slack Bot_JSObject1",
               "confirmBeforeExecute": false,
